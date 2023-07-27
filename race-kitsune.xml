@@ -4,7 +4,7 @@
 		<name>Kitsune</name>
 		<author url="https://www.dndbeyond.com/races/17205-kitsune">thraintar</author>
 		<description></description>
-		<update version="0.2.7">
+		<update version="1.0.0">
 			<file name="race-kitsune.xml" url="https://raw.githubusercontent.com/Fusena-san/race-kitsune/main/race-kitsune.xml?token=GHSAT0AAAAAACFTZFJKNBDJQBK5GKBYD3EUZGCZNBQ" />
 		</update>
 	</info>
@@ -57,7 +57,7 @@
         <span class="feature">Kitsune Magic.</span>Due to either extra life-force energy or a blessing from Inari you have an innate spell casting ability. The kitsune's spellcasting ability is Charisma and you can cast dancing lights at will.<br />
         <span class="feature">Agile.</span>Your race is much more flexible than others. You gain proficiency in Acrobatics.<br />
       </p>
-      <div element="ID_RACE_VARIANT_KITSUNE_VARIANT"/>
+      <div element="ID_RACIAL_TRAIT_KITSUNE_SUBRACE"/>
     </description>
     <sheet display="false" />
     <setters>
