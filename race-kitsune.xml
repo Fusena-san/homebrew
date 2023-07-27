@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Kitsune</name>
+		<author url="https://www.dndbeyond.com/races/17205-kitsune">thraintar</author>
+		<description></description>
+		<update version="0.2.7">
+			<file name="race-kitsune.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/races/race-human.xml" />
+		</update>
+	</info>
+
+  <element name="Human" type="Race" source="Homebrew" id="ID_RACE_KITSUNE">
+    <description>
+      <p class="flavor"> I was called in to deal with a werewolf problem at the local shrine dedicated to Inari. It was to my shock that the priestess is a white furred kitsune. Due to my vast knowledge of otherworldly creatures and some ritual spells, I found out that she had no ill intentions to the populace. She was so nice that she even paid me for the trouble that others caused her. We were fortunate that she was not a Nogitsune. I shudder to think of that encounter.</p>
+      <p class="flavor, indent">— Unknown Human Samurai</p>
+
+      <h4>APPERANCE</h4>
+      <p>In their natural form kitsune are anthromorphic foxes. Kitsune have fur in various shades of red and brown. Their eyes have vertical slit pupils that have an arrange of colors from cobalt blue to golden yellow. They also have a tail that helps them balance on their legs. Some kitsune have multiple tails but they never have more than nine tails. Due to their diditigrade feet they have a hard time wearing shoes like a human. They also have claws that are more pronounced than a normal humans fingernails but they are impractical to use in combat due to the victim having a shallow scratches as a result. Their fangs on the other hand are deadly if one is not careful. The kitsune uses their fangs as a last resort in close quarters combat.</p>
+      <p class="indent">Zenko Kitsune have white or golden fur and golden eyes due to being born with Inari's blessing. Most Zenko kitsune don't bother switching to a human form due to the calming aura they emit to others.</p>
+      <p class="indent">Nogitsune have black fur and blood red eyes. Their fangs are more pronounced and a lot more deadly than ordinary kitsune. They use their fangs to drain the life-force of the target and feed on it to heal their wounds.</p>
+
+      <h4>MENTAL PROWESS</h4>
+      <p>Kitsune have great mental fortitude that is on par with the high elves. They have remarkable cunning that they use solve problems in the most unlikely solutions imaginable. Due to their familiarity to illusions and enchantments, kitsune often use honeyed words or pranks to oppose their enemies. They can use what humans called 'foxfire', a harmless blue flaming orb that floats above the ground. Skilled kitsune can weave illusions using this ability.  Striking with a bargain with a kitsune is dealt with caution. They will find loopholes in every agreement to bypass.</p>
+
+      <h4>TAILED SCION</h4>
+      <p>Kitsune are descendants of their nine-tailed Deity Inari. While its not uncommon to see a kitsune with multiple tails. It is very rare for kitsune to acquire their ninth tail. Kitsune can gain additional tails through hard work and enlightenment. In special circumstances Inari rewards tails to kitsune who has done a good deed. The amount of tails also shows the amount of authority they have in the kitsune political structure. It is rumored that some kitsune can channel their magic through their tails.</p>
+      
+      <h4>SHAPESHIFTING</h4>
+      <p>Due to their nature, kitsune had an inborn ability to take a form of a human. Their human form is unique as their natural form. They can shapeshift into a specific human of the same gender. Like humans, both natural and human forms are heredity. Most kitsune in their natural/human form are people from Wa in Kara-Tur. Some kitsune master their shapeshifting art to the point where they can shift into a fox or shift into a person they have seen recently. While this fools most people, the natural disguise can been circumvented by a keen sense of smell or intuition.</p>
+
+      <h4>SOCIETY</h4>
+      <p>A kitsune society is not much different than most humans. The "government", if one can call it that, is based of the number of tails. The main difference in kitsune society is that they are free spirited. They don't subjugate their own kind unless its absolutely necessary. The nine tailed kitsune are leaders where the one tailed kitsune being the commoners. Noguitsune are the rouge elements of the kitsune society. Therefore causing an eternal kin-strife between the notgitsune and the other kitsune.</p>
+
+      <h5>Marriage</h5>
+      <p>Once a kitsune reaches adulthood around the age of 16, the kitsune will have an annually time of lust. This time usually occur during the spring and lasts for a whole month. It is common for a kitsune to find a spouse during this time.</p>
+      <p class="indent">In the old days, all kitsune have to do in order to get married is to declare their marriage. Now they have adopted human customs of matrimony for fun an amusement. During a ceremony there will be ghostly lights called foxfire and a sunshower to ward off intruders. One rumor is also partly true. They don't like uninvited guests during this ceremony. But when an unlucky soul stumbled into their mist, they take that person and put into a hot pot of water only to be cleaned and then invited to the ceremony.</p>
+      <p class="indent">Kitsune also can mate with humans. While it is rare, the fact is that humans are compatible to create offspring with kitsune. If this the case the human has to go through a kitsune wedding as if he/she is a kitsune. The offspring of the kitsune in this fashion is always kitsune.</p>
+
+      <h5>Life</h5>
+      <p>A normal kitsune woman can give birth to average of four kitsune per pregnancy. Due to the high mortality rate for newborn kitsune, only a kit or two will survive the first five years of its life. Because of this a kitsune doesn't get a formal name until the age of five. Once they reach this age the kitsune's family celebrate privately. Once a kitsune reaches adulthood, a coming of age celebration occurs. During this celebration mischief befalls the town the kitsune congregate in for the ceremony. One custom requires the kitsune in their natural form for the whole night.</p>
+
+      <h5>Death</h5>
+      <p>When a kitsune dies from natural or unnatural causes, the proper thing to do is to cremate the remains. This is to prevent necromancers to animate the corpse. Then the ashes are distributed back into the nature. Lastly the remaining family members would receive a scroll that tells them about the life of the deceased. These scrolls are written by Inari herself and warded with powerful protection wards. One must have this scroll in order to preform a Resurrection or similar based ritual. Necromancers beware! Trying to create an undead kitsune always results in a Nogitsune. Those who are unfortunate to create them always ended up as their lunch.</p>
+
+      <h4>KITSUNE TRAITS</h4>
+      <p>Through the rumors of the foolish humans, only these racial traits are true</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Dexterity and Charisma scores increase by 1.<br />
+        <span class="feature">Age.</span>Kitsune reaches adulthood at the age of 15 and can live up to a millennium.<br />
+        <span class="feature">Alignment.</span>Kitsune tend to go towards a chaotic alignment. Nogitsune are more evil aligned while Zenko kitsune are more good aligned.<br />
+        <span class="feature">Size.</span>Kitsune have a lithe form, from 4 feet to barely under 6 feet tall. Regardless of your position in that range, your size is Medium.<br />
+        <span class="feature">Speed.</span>Your base walking speed is 30 feet.<br />
+        <span class="feature">Languages.</span>You can speak, read, and write Common and Sylvan.<br />
+        <span class="feature">Dark Vision.</span>Due to hunting at night you have superior vision in the dark. You can see dim light within 30 feet of you as bright light and in darkness as if it was in dim light. You can't discern color in darkness, only shades of grey.<br />
+        <span class="feature">Natural Weapon.</span>In your natural form you gain a bite attack that does 1d4 piercing damage. This ability is strength based.<br />
+        <span class="feature">Kitsune Shapeshift.</span>As an action, you can assume the appearance of a specific single human form of the same sex. You always take this form when you use this ability. You cannot use your bite attack in human form. In order for anyone to see your true nature, they have to succeed on an Investigation check with a DC 8 + your Deception modifier.<br />
+        <span class="feature">Kitsune Magic.</span>Due to either extra life-force energy or a blessing from Inari you have an innate spell casting ability. The kitsune's spellcasting ability is Charisma and you can cast dancing lights at will.<br />
+        <span class="feature">Agile.</span>Your race is much more flexible than others. You gain proficiency in Acrobatics.<br />
+      </p>
+      <div element="ID_RACE_VARIANT_KITSUNE_VARIANT"/>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">Shirou, Tendou, Tsukasa, Akito, Ken, Souta, Izumi</set>
+      <set name="names" type="female">Shiromi, Hana, Miko, Sakura, Kyoko, Yui, Yuki, Mafuyu</set>
+      <set name="names" type="surname">Honda, Inugami, Ishikawa, Hori, Tsukishima, Tanaka, Morikawa</set>
+      <set name="names-format">{{surname}} {{name}}</set>
+    </setters>
+    <rules>
+      <stat name="dexterity" value="1" />
+      <stat name="charisma" value="1" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <stat name="innate speed" value="30" bonus="base" />
+      <grant type="Vision" id="ID_VISION_DARKVISION" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />	  
+      <grant type="Language" id="ID_LANGUAGE_SYLVAN" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NATURAL_WEAPON" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_KITSUNE_SHAPESHIFT" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_KITSUNE_MAGIC" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_AGILE" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_KITSUNE_SUBRACE" />
+    </rules>
+  </element>
+
+  <element name="Natural Weapon" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_NATURAL_WEAPON">
+    <description>
+      <p>You gain proficiency with the bite attack.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_BITE" />
+    </rules>
+  </element>
+
+  <element name="Kitsune Shapeshift" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_KITSUNE_SHAPESHIFT">
+    <description>
+      <p>They have to succeed a DC 8 + Deception modifier to see your true nature.</p>
+    </description>
+    <sheet display="false" />
+  </element>
+
+  <element name="Kitsune Magic" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_KITSUNE_MAGIC">
+    <description>
+      <p>You can cast spells gained from this race's traits with Charisma spellcasting ability. You also gain the Dancing Lights spell.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <grant type="Spell" id="ID_PHB_SPELL_DANCING_LIGHTS" />
+      <spellcasting name="Kitsune" ability="Charisma" prepare="false">
+        <list known="true">Kitsune</list>
+      </spellcasting>
+    </rules>
+  </element>
+
+  <element name="Agile" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_AGILE">
+    <description>
+      <p>You have proficiency in the Acrobatics skill.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ACROBATICS" />
+    </rules>
+  </element>
+
+  <element name="Kitsune Subrace" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_KITSUNE_SUBRACE">
+    <description>
+      <p>Two main subraces of kitsune populate the worlds of D&amp;D: nogitsune, yako kitsune and zenko kitsune. Choose one of these subraces.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Sub Race" name="Kitsune Subrace" supports="Kitsune" />
+    </rules>
+  </element>
+
+  <element name="Nogitsune" type="Kitsune Subrace" source="Homebrew" id="ID_SUB_RACE_NOGITSUNE">
+    <supports>Kitsune</supports>
+    <description>
+      <p>Nogitsune are a perverted version of kitsune. There are three possible cause of the creation of the nogitsune.</p>
+      
+      <h5>Necromancy Gone Awry</h5>
+      <p>One kitsune song describes how a necromancer tried to reanimate an army of undead kitsune. Kitsune no matter what state of death, values freedom above all. But due to this curse of undeath, the nogitsune envies the living.</p>
+      
+      <h5>Underdark Madness</h5>
+      <p></p>
+      
+      <h5>Oathbreakers</h5>
+      <p>The holy scroll of Inari describe nogitsune as Zenko kitsune who has renounce their faith of Inari in pursue of darker faiths. In turn Inari cursed them into the monsters they now became. She removed their tails therefore they live as a state of undeath. In order to live, the nogitsune have to have sustenance of blood and flesh instead of conventional food and water. Nogitsune have the same infamy as vampires and succubi because of this.</p>
+      <p class="indent">Note: This is a villainous option that DMs can use to create adversaries for the players. Players who want to build a nogitsune are recommended to play a redemption character.</p>
+      
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Constitution score is increased by 1.<br />
+        <span class="feature">Undeath.</span>Due to the nature of undeath you are more resilient to life drain effects. You are resistant to necrotic damage.<br />
+        <span class="feature">Life Drain.</span>You have the ability to feed of the life-force of a victim.<br />
+        <p class="indent">When you make a bite attack the target needs to make a Consitution saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 necrotic damage on a failed save, and no damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. Then the damage you dealt heals you equal to the necrotic damage. After you use your life drain, you can’t use it again until you complete a long rest. Undead and Constructs are immune to this effect.</p>
+        <span class="feature">Tailless.</span>Due to your curse you have no tails. Therefore you cannot use the Kitsune Magic racial feature.<br />
+      </p>
+    </description>
+    <sheet display="false"/>
+    <rules>
+      <stat name="constitution" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_UNDEATH" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_LIFE_DRAIN" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_TAILLESS" />
+    </rules>
+  </element>
+
+  <element name="Undeath" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_UNDEATH">
+    <description>
+      <p>You are resistant to necrotic damage.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_NECROTIC" />
+    </rules>
+  </element>
+
+  <element name="Life Drain" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_LIFE_DRAIN">
+    <description>
+      <p>When you make a bite attack the target needs to make a Consitution saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 necrotic damage on a failed save, and no damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. Then the damage you dealt heals you equal to the necrotic damage. After you use your life drain, you can’t use it again until you complete a long rest. Undead and Constructs are immune to this effect.</p>
+    </description>
+    <sheet display="false" />
+  </element>
+
+  <element name="Tailless" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_TAILLESS">
+    <description>
+      <p>You cannot use the Kitsune Magic racial feature.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <revoke type="Racial Trait" id="ID_RACIAL_TRAIT_KITSUNE_MAGIC" />
+    </rules>
+  </element>
+
+  <element name="Yako Kitsune" type="Kitsune Subrace" source="Homebrew" id="ID_SUB_RACE_YAKO_KITSUNE">
+    <supports>Kitsune</supports>
+    <description>
+      <p>Yako Kitsune are your average kitsune. They are the balance between the nogitsune and zenko kitsune. They are more skilled using their words than their other brethren. Due to that they are more malleable in alignment than the Nogitsune and Zenko kitsune. Some Yako kitsune rather live a peaceful honest life in the hope of being accepted by other races. Others prefer to live in their human guise and hope they go unnoticed.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Dexterity score is increased by 1.<br />
+        <span class="feature">Befuddling Words.</span>You use your kitsune magic to confuse your targets with lies and half truths. You know the vicious mockery using the same spellcasting ability as the Kitsune magic feature. Instead of insulting the enemy as part of the spell description, you can use riddles and lies.<br />
+        <span class="feature">Silver Tongue.</span>You are naturally gifted to use your cunning words to affect peoples moods. Yako kitsune can deceive and persuade better than the average human. You gain proficiency in deception or persuasion.<br />
+      </p>
+    </description>
+    <sheet display="false"/>
+    <rules>
+      <stat name="dexterity" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_BEFUDDLING_WORDS" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SILVER_TONGUE" />
+    </rules>
+  </element>
+
+  <element name="Befuddling Words" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_BEFUDDLING_WORDS">
+    <description>
+      <p>You gain the Vicious Mockery spell, and instead of insulting, you can use riddles and lies.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <grant type="Spell" id="ID_PHB_SPELL_VICIOUS_MOCKERY" />
+    </rules>
+  </element>
+
+  <element name="Silver Tongue" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_SILVER_TONGUE">
+    <description>
+      <p>You gain proficiency in deception or persuasion.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Proficiency" name="Silver Tounge (Kitsune)" supports="ID_PROFICIENCY_SKILL_DECEPTION|ID_PROFICIENCY_SKILL_PERSUASION" />
+    </rules>
+  </element>
+
+  <element name="Zenko Kitsune" type="Kitsune Subrace" source="Homebrew" id="ID_SUB_RACE_YAKO_KITSUNE">
+    <supports>Kitsune</supports>
+    <description>
+      <p>Zenko Kitsune are known as celestial foxes. Blessed by birth by their deity Inari, Zenko kitsune are more friendly and compassionate than the rest of their brethren. They are good mediators to kitsune/non-kitsune matters. Most of them dedicate their lives to Inari through different means. Some stay in a temple in a community, some are wandering priests, and some are bards. You could never ask for a better friend than a Zenko Kitsune.</p>
+      <p class="indent">Restriction: Zenko Kitsune only worship Inari or a deity similar to Inari.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Charisma score is increased by 1.<br />
+        <span class="feature">Inari's Servant</span>You know the produce flame cantrip. When you reach 3rd level, you learn how to cast the bless once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you learn how to cast aid once with this trait and regain the ability to do so when you finish a short rest. Charisma is your spellcasting ability for these spells.<br />
+      </p>
+    </description>
+    <sheet display="false"/>
+    <rules>
+      <stat name="dexterity" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_INARI'S_SERVANT" />
+    </rules>
+  </element>
+
+  <element name="Inari's Servant" type="Racial Trait" source="Homebrew" id="ID_RACIAL_TRAIT_INARI'S_SERVANT">
+    <description>
+      <p>You gain the Produce Flame cantrip. At the 3rd level, you gain the Bless spell and you can regain the spell after a long rest. At the 5th level, you gain the Aid spell and you can regain the spell after a short rest.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <grant type="Spell" id="ID_PHB_SPELL_PRODUCE_FLAME" />
+      <grant type="Spell" level="3" id="ID_PHB_SPELL_BLESS" />
+      <grant type="Spell" level="3" id="ID_PHB_SPELL_AID" />
+    </rules>
+  </element>
+</elements>
