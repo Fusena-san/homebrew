@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Angel Devil</name>
+		<description></description>
+		<update version="1.0.0">
+			<file name="race-angel-devil.xml" url="https://raw.githubusercontent.com/Fusena-san/races/main/race-angel-devil.xml" />
+		</update>
+	</info>
